@@ -1,0 +1,27 @@
+95-771 DSA Review for midterm
+
+1. Preconditions, postconditions, procedural abstraction, and class invariants
+2. Big O, Big Omega, Little o, and Big Theta
+3. Linked Lists
+4. Stacks and queues and alternative representations
+5. Tree terminology (degree, depth, height, complete, full)
+6. For complete trees:
+    Given height, compute number of leaves
+    Given the number of leaves, compute the height
+    Given the height compute the number of internal nodes
+    Given the height compute the total number of nodes
+    Given the total number of nodes, compute the height
+7. Tree traversals: Preorder, inorder, postorder, levelorder
+8. Trees represented in arrays 
+9. Heaps (max or min) and reduce key operation
+10. B-Trees (insert and delete) Red Black Trees (insert) B+ Trees (insert)
+11. Graphs and their alternative representations
+12. Graph traversals (BFS,DFS)
+13. Graph algorithms (Dijkstra, Prim, Floyd-Warshall)
+14. Implementing Dijkstra in O((n+e)lg n) and O(n^2)
+15. Searching (serial, binary)
+16. Hash tables (O-A Hashing and chained hashing)
+17. Knuth's approach to double hashing
+18. Tough school boy hashing
+19. DST and Radix Tries
+
